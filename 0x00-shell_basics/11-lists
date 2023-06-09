@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -l
+chmod +x list_files.sh
+./list_files.sh
+
