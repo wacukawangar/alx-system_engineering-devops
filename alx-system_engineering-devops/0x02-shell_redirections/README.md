@@ -1,1 +1,1 @@
-Read the fucking manual
+0x02-shell _redirections
